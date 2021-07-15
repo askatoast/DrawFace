@@ -1,6 +1,6 @@
 # draw_face
 
-A new Flutter project.
+An app which generates a human face from a free hand sketch.
 
 ## Getting Started
 
